@@ -8,6 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
+masthead_title:          : "My Custom Title"
 title                    : "Zewei Yu's Homepage"
 title_separator          : # "-"
 name                     : "Zewei Yu"
