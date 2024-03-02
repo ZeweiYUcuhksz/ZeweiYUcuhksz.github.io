@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : # "en-US"
 title                    : "Zewei Yu's Homepage"
-title_separator          : "-"
-name                     : &name "Zewei Yu"
-description              : &description "personal description"
+title_separator          : # "-"
+name                     : # &name "Zewei Yu"
+description              : # &description "personal description"
 url                      : https://ZeweiYUcuhksz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZeweiYUcuhksz/ZeweiYUcuhksz.github.io"
