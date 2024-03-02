@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zewei Yu / Homepage"
+title                    : "Zewei Yu's Homepage"
 title_separator          : "-"
 name                     : &name "Zewei Yu"
 description              : &description "personal description"
