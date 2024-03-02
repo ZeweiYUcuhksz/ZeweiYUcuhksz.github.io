@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Zewei Yu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "Shenzhen, China"
+  email            : "223040159@link.cuhk.edu.cn"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
